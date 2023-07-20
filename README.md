@@ -1,7 +1,7 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://adarshkm.000webhostapp.com/)
 <h1 align="center">Hi 👋, I'm Adarsh</h1>
 <h3 align="center">Hello! I'm a skilled Java and web developer, and I possess a deep passion for delivering innovative solutions. My expertise in both front-end and back-end technologies equips me to effortlessly develop dynamic and scalable applications. I am also well-versed in the MERN (MongoDB, Express.js, React.js, Node.js) stack.</h3>
-<img align="right" alt="Coding" width="400" src="https://www.bing.com/images/search?view=detailV2&ccid=wIPjdVDr&id=14619EE7AC734A69B43647C1911945558936A582&thid=OIP.wIPjdVDrTb5incrQzdUlMgAAAA&mediaurl=https%3a%2f%2fmedia.giphy.com%2fmedia%2flP8xu5t2DLGG045H8F%2fgiphy.gif&exph=480&expw=382&q=coding+animated+gif&simid=608055936714548174&FORM=IRPRST&ck=79FA13FD1327AA1C67A52D30CE5D5BD4&selectedIndex=82&ajaxhist=0&ajaxserp=0">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adarsh6158&label=Profile%20views&color=0e75b6&style=flat" alt="adarsh6158" /> </p>
 
