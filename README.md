@@ -1,6 +1,6 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://adarshkm.000webhostapp.com/)
 <h1 align="center">Hi 👋, I'm Adarsh</h1>
-<h3 align="center">Hello! I'm a skilled Java and web developer, and I possess a deep passion for delivering innovative solutions. My expertise in both front-end and back-end technologies equips me to effortlessly develop dynamic and scalable applications. I am also well-versed in the MERN (MongoDB, Express.js, React.js, Node.js) stack.</h3>
+<h3 align="center">Hello, I am a passionate and skilled Java and web developer proficient in the MERN stack, delivering innovative solutions for scalable applications.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adarsh6158&label=Profile%20views&color=0e75b6&style=flat" alt="adarsh6158" /> </p>
