@@ -7,12 +7,12 @@
 
 - 🌱 I’m currently learning **React JS,Node JS**
 
-- 👨‍💻 All my Projects, Certificates, and Internships are available at <a href="https://expensetracker6158.000webhostapp.com/"> Adarsh </a>
+- 👨‍💻 All my Projects, Certificates, and Internships are available at <a href="https://adarshkm.000webhostapp.com/"> Adarsh </a>
 
 
 - 📫 How to reach me **adarsh6158@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1f8WzllYnqXNoJryPCsoVyFhEnn2o17dP/view?usp=sharing](https://drive.google.com/file/d/1f8WzllYnqXNoJryPCsoVyFhEnn2o17dP/view?usp=sharing)
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1f8WzllYnqXNoJryPCsoVyFhEnn2o17dP/view?usp=sharing"> Resume </a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
