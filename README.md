@@ -1,7 +1,7 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://adarshkm.000webhostapp.com/)
 <h1 align="center">Hi 👋, I'm Adarsh</h1>
 <h3 align="center">Hello, I am a passionate and skilled Java and web developer proficient in the MERN stack, delivering innovative solutions for scalable applications.</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="400" src="https://dribbble.com/shots/6539429-Worker/attachments/6539429-Worker?mode=media">
 
 
 
