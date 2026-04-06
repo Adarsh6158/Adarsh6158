@@ -15,16 +15,16 @@
 
 ---
 
-## 🧠 About Me
+## 🧑‍💻 About Me
 
-- 💼 Software Engineer at **Albertsons Companies India**, building **scalable backend systems** for retail platforms  
-- 🏆 Former **Associate Product Engineer at Temenos**, worked on **enterprise-grade banking solutions**  
-- ⚙️ Strong expertise in **Spring Boot, WebFlux, Kafka**, and designing **event-driven microservices**  
-- 🚀 Hands-on experience building **high-throughput systems (100K+ events/day)** with focus on **performance & reliability**  
-- ☁️ Worked with **Azure, GCP, Docker, Kubernetes** to develop and deploy **cloud-native applications**  
-- 🗄️ Optimized **REST APIs and database queries (MongoDB/SQL)** for **low latency and high efficiency**  
-- 📊 Built real-world systems including **E-commerce microservices & AI-Driven Code Generation SaaS Platform**  
-- 🧠 Consistent problem solver with **370+ DSA problems solved**, strong in **data structures & system design fundamentals**
+- Backend-focused **Software Engineer @ Albertsons Companies India**, building scalable retail systems  
+- Ex-**Temenos**, contributed to enterprise-grade banking platforms  
+- Specializing in **Spring Boot, WebFlux, Kafka** → event-driven microservices  
+- Designed high-throughput systems handling **100K+ events/day**  
+- Cloud-native development with **Azure, GCP, Docker, Kubernetes**  
+- Performance-focused: optimized **APIs & DB queries (MongoDB, SQL)**  
+- Built systems like **E-commerce microservices & AI SaaS platform**  
+- Solved **370+ DSA problems** → strong in problem solving & system design  
 
 ---
 ## 🛠 Tech Stack
@@ -78,26 +78,13 @@
 
 ## 📈 GitHub Insights & Activity
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Adarsh6158&theme=tokyo-night&hide_border=true" height="160"/>
-  
-  <img src="https://streak-stats.demolab.com?user=Adarsh6158&theme=tokyonight&hide_border=true" height="160"/>
-</p>
-
----
-
-## 🌐 Connect With Me
-
-<p align="center">
-<a href="https://linkedin.com/in/adarshmall">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
-</a>
-
-<a href="mailto:adarsh6158@gmail.com">
-<img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail" />
-</a>
-
-<a href="https://github.com/Adarsh6158">
-<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" />
-</a>
-</p>
+<table align="center">
+  <tr>
+    <td width="65%">
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=Adarsh6158&theme=tokyo-night&line=58A6FF&point=FFFFFF&area=true"/>
+    </td>
+    <td width="35%">
+      <img src="https://streak-stats.demolab.com?user=Adarsh6158&theme=tokyonight&hide_border=true&ring=58A6FF&fire=FF7B72&currStreakLabel=58A6FF"/>
+    </td>
+  </tr>
+</table>
